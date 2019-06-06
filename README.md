@@ -6,3 +6,5 @@ It is a joke!
 ## this is a test!
 
 there is something wrong.
+### the theme can not be change
+if you change the theme,there will be something wrong!
